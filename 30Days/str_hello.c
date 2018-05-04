@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+// DAY 0 
 // Declare a variable named 'input_string' to hold our input.
 // Read a full line of input from stdin and save it to our variable, input_string.
 // Print a string literal saying "Hello, World." to stdout using printf.
