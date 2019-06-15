@@ -1,3 +1,4 @@
+// scanset %[^\n] is allow to accecpt the input until a new line 
 #include<stdio.h>
 int main()
 {
@@ -17,6 +18,5 @@ int main()
 /* output
 
 Hello, World.
-Welcome to 30 Days of Code!             */
-
+Welcome to 30 Days of Code! 
 */
